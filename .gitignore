@@ -1,0 +1,8 @@
+.cache
+.idea
+.DS_Store
+*.sbt
+*.xml
+target/
+project/
+package.scala
